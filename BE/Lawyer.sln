@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BL", "..\BL\BL.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\DAL\DAL.csproj", "{A78EAF36-78C9-4B75-B562-91F6DF3FE901}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lawyer", "..\Layer\Lawyer.csproj", "{0E084D5F-959C-44D9-81EA-4D41D27F7544}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lawyer", "..\Lawyer\Lawyer.csproj", "{7439EB8C-4F12-42A4-81EA-F5D813BA939C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{A78EAF36-78C9-4B75-B562-91F6DF3FE901}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A78EAF36-78C9-4B75-B562-91F6DF3FE901}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A78EAF36-78C9-4B75-B562-91F6DF3FE901}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0E084D5F-959C-44D9-81EA-4D41D27F7544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0E084D5F-959C-44D9-81EA-4D41D27F7544}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0E084D5F-959C-44D9-81EA-4D41D27F7544}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0E084D5F-959C-44D9-81EA-4D41D27F7544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7439EB8C-4F12-42A4-81EA-F5D813BA939C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7439EB8C-4F12-42A4-81EA-F5D813BA939C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7439EB8C-4F12-42A4-81EA-F5D813BA939C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7439EB8C-4F12-42A4-81EA-F5D813BA939C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,7 +1,7 @@
 ﻿using System.Web;
 using System.Web.Optimization;
 
-namespace Layer
+namespace Lawyer
 {
     public class BundleConfig
     {
